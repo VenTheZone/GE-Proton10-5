@@ -1,3 +1,10 @@
+Download
+```git clone git@github.com:VenTheZone/GE-Proton10-5.git```
+
+copy to correct path
+```cp GE-Proton10-5 ~/.local/share/Steam/compatibilitytools.d/```
+
+
 # The Pain of Finding GE‑Proton10‑5
 
 ## 😩 Why Did This Install Become a Quest?
@@ -42,4 +49,7 @@
 
 Happy troubleshooting.
 
+Thanks to the fellow nerds out there for sharing this.
 https://github.com/ValveSoftware/Proton
+
+You can also get it from https://mega.nz/file/xbxFmbZS#0Q2K5f9udxXlW4pL8dktJFfkWTiG2X_ElZz7R9O1Vb8
