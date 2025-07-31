@@ -1,7 +1,9 @@
 Download
+
 ```git clone git@github.com:VenTheZone/GE-Proton10-5.git```
 
 copy to correct path
+
 ```cp GE-Proton10-5 ~/.local/share/Steam/compatibilitytools.d/```
 
 
