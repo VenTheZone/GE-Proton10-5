@@ -7,7 +7,8 @@ copy to correct path
 
 Happy troubleshooting.
 
-Thanks to the fellow nerds out there for sharing this.
+Thanks to the fellow nerds out there for sharing.
+
 https://github.com/ValveSoftware/Proton
 
 You can also get it from https://mega.nz/file/xbxFmbZS#0Q2K5f9udxXlW4pL8dktJFfkWTiG2X_ElZz7R9O1Vb8
