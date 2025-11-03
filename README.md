@@ -1,6 +1,6 @@
 Download
 
-```git clone git@github.com:VenTheZone/GE-Proton10-5.git```
+```git clone https://github.com/VenTheZone/GE-Proton10-5.git```
 
 copy to correct path
 
